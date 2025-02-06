@@ -1,3 +1,6 @@
 ## Hi there, I'm Sofiia 👋
 
-<i class="devicon-devicon-plain"></i>
+## Languages:
+
+*   Ukrainian (Native)
+*   English (Pre-Intermediate)
