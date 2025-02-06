@@ -2,5 +2,5 @@
 
 ## Languages:
 
-*   Ukrainian (Native)
-*   English (Pre-Intermediate)
+*   :ukraine: Ukrainian (Native)
+*   :gb: English (Pre-Intermediate)
