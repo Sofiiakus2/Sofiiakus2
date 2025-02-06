@@ -1,4 +1,6 @@
-## Hi there, I'm Sofiia 👋
+### Hi there, I'm Sofiia 👋
 
-## My stack and tools:
+## Flutter Developer
+
+
 
