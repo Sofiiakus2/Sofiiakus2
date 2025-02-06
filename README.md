@@ -1,6 +1,8 @@
 ## Hi there, I'm Sofiia 👋
 
-## Languages:
+## My stack and tools:
 
-*   :ukraine: Ukrainian (Native)
-*   :gb: English (Pre-Intermediate)
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="HTML5" width="16" height="16"> HTML5 | <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS3" width="16" height="16"> CSS3 | <img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="JavaScript" width="16" height="16"> JavaScript | <img src="https://img.icons8.com/color/32/000000/typescript.png" alt="TypeScript" width="16" height="16"> TypeScript | <img src="https://img.icons8.com/color/32/000000/python--v1.png" alt="Python" width="16" height="16"> Python | <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React.js" width="16" height="16"> React.js | <img src="https://img.icons8.com/color/32/000000/nextjs.png" alt="Next.js" width="16" height="16"> Next.js | <img src="https://img.icons8.com/color/32/000000/nodejs.png" alt="Node.js" width="16" height="16"> Node.js | <img src="https://img.icons8.com/color/32/000000/sql-database--v1.png" alt="SQL" width="16" height="16"> SQL | <img src="https://img.icons8.com/color/32/000000/sass.png" alt="Sass" width="16" height="16"> Sass |
+| <img src="https://img.icons8.com/color/32/000000/sass.png" alt="Sass" width="16" height="16"> Sass | <img src="https://img.icons8.com/color/32/000000/bem.png" alt="BEM" width="16" height="16"> BEM | <img src="https://img.icons8.com/color/32/000000/tailwindcss.png" alt="Tailwind" width="16" height="16"> Tailwind | <img src="https://img.icons8.com/color/32/000000/redux.png" alt="Redux" width="16" height="16"> Redux | <img src="https://img.icons8.com/color/32/000000/postman.png" alt="Postman" width="16" height="16"> Postman | <img src="https://img.icons8.com/color/32/000000/mongodb.png" alt="MongoDB" width="16" height="16"> MongoDB | <img src="https://img.icons8.com/color/32/000000/git-squared.png" alt="Git" width="16" height="16"> Git | <img src="https://img.icons8.com/color/32/000000/visual-studio-code.png" alt="VSCode" width="16" height="16"> VSCode | <img src="https://img.icons8.com/color/32/000000/figma.png" alt="Figma" width="16" height="16"> Figma |   |
