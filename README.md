@@ -1,6 +1,4 @@
-### Hi there, I'm Sofiia 👋
-
-## Flutter Developer
+# Flutter Developer
 
 ## Languages and Tools  
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">  
